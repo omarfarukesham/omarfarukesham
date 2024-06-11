@@ -6,7 +6,7 @@ I am a tech enthusiast, and programing language too. Last year, I was dedicatedl
 
 Skills: Reactjs, Javascript, NodeJs, expressjs, mongodb, firebase, jwt, tailwind css, Daisy UI.
 
-- 🔭 I’m currently working on Self-Employed 
+- 🔭 I’m currently working on Alpha Commerz Ltd(Swedish) 
 - 🌱 I’m currently learning Javscript, Nodejs, Redux js. 
 - 👯 I’m looking to collaborate on any full stack javascript project 
 - 🤔 I’m looking for help with get a friendly team. 
