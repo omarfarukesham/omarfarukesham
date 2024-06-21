@@ -2,14 +2,14 @@
 ![Full Stack Web Developer(MERN)](https://i.ibb.co/KbPJBxX/github.png)
 
 Hi, 
-I am a tech enthusiast, and programing language too. Last year, I was dedicatedly to learning javascript, reactjs, nodejs, MongoDB, firebase, jwt, stripe(payment gateway) and so on. I wish, I must be able to add much value in any project if it is Javascript.
+I am a tech enthusiast, and programming language too. Last year, I was dedicated to learning javascript, Reactjs, Nodejs, MongoDB, firebase, JWT, stripe(payment gateway), etc. I hope to add much value to any project if it is Javascript.
 
-Skills: Reactjs, Javascript, NodeJs, expressjs, mongodb, firebase, jwt, tailwind css, Daisy UI.
+Skills: Reactjs, Javascript, NodeJs, Expressjs, MongoDB, firebase, JWT, Tailwind CSS, Daisy UI.
 
 - 🔭 I’m currently working on Alpha Commerz Ltd(Swedish) 
-- 🌱 I’m currently learning Javscript, Nodejs, Redux js. 
-- 👯 I’m looking to collaborate on any full stack javascript project 
-- 🤔 I’m looking for help with get a friendly team. 
+- 🌱 I’m currently learning Javascript, Nodejs, and Redux js. 
+- 👯 I’m looking to collaborate on any stack javascript project 
+- 🤔 I’m looking for help with getting a friendly team. 
 - 💬 Ask me about any MERN technology. 
 - 📫 How to reach me: omarfarukesham@gmail.com 
 - ⚡ Fun fact: helping people to explore. 
