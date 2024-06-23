@@ -2,7 +2,7 @@
 ![Full Stack Web Developer(MERN)](https://i.ibb.co/KbPJBxX/github.png)
 
 Hi, 
-I am a tech enthusiast, and programming language too. Last year, I was dedicated to learning javascript, Reactjs, Nodejs, MongoDB, firebase, JWT, stripe(payment gateway), etc. I hope to add much value to any project if it is Javascript.
+I am a tech enthusiast, and programming language too. Last year, I was dedicated to learning javascript, Reactjs, Nodejs, MongoDB, firebase, JWT, stripe(payment gateway), etc. I want to add much value to any project if it is Javascript.
 
 Skills: Reactjs, Javascript, NodeJs, Expressjs, MongoDB, firebase, JWT, Tailwind CSS, Daisy UI.
 
