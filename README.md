@@ -1,18 +1,36 @@
 #### Full Stack Web Developer(MERN)
 ![Full Stack Web Developer(MERN)](https://i.ibb.co/KbPJBxX/github.png)
 
-Hi, 
-I am a tech enthusiast, and programming language too. Last year, I was dedicated to learning javascript, Reactjs, Nodejs, MongoDB, firebase, JWT, stripe(payment gateway), etc. I want to add much value to any project if it is Javascript.
+Hello!
+I'm Omar, a passionate tech enthusiast and JavaScript developer with over 3+ years of experience working with various companies and clients as a freelancer. My journey has been deeply rooted in mastering the JavaScript ecosystem, particularly focusing on:
 
-Skills: Reactjs, Javascript, NodeJs, Expressjs, MongoDB, firebase, JWT, Tailwind CSS, Daisy UI.
+Frontend: React.js, React Native, Redux, Tailwind CSS, Daisy UI, Material UI, Shadcn. 
+Backend: Node.js, Express.js, MongoDB, Mongoose, Prisma, Firebase, PostgreSQL
+Other Tools: JWT authentication, payment gateway integrations, and SQL-based systems
 
-- 🔭 I’m currently working on Alpha Commerz Ltd(Swedish) 
-- 🌱 I’m currently learning Javascript, Nodejs, and Redux js. 
-- 👯 I’m looking to collaborate on any stack javascript project 
-- 🤔 I’m looking for help with getting a friendly team. 
-- 💬 Ask me about any MERN technology. 
-- 📫 How to reach me: omarfarukesham@gmail.com 
-- ⚡ Fun fact: helping people to explore. 
+I'm committed to delivering high-quality, scalable solutions and adding real value to JavaScript-based projects, whether it's a startup MVP, enterprise app, or open-source contribution.
+
+🔧 Skills
+TypeScript, JavaScript, React.js, React Native, Node.js, Express.js, MongoDB, Firebase, PostgreSQL, Prisma, JWT, Tailwind CSS, Daisy UI, Material UI, Shadcn.
+
+🚀 Currently
+Working at Qusaleem Client Mobile App Development(USA-based Freelancer)
+
+Learning advanced patterns in Docker, Kubernetes, CI/CD, and AWS. 
+
+🤝 Open To
+Collaborating on JavaScript/Full-stack projects
+
+Joining a collaborative and friendly tech team
+
+💬 Ask Me About
+MERN stack, scalable API design, authentication systems, or real-time apps.
+
+📫 Reach Me At
+📩 omarfarukesham@gmail.com
+
+⚡ Fun Fact
+I enjoy helping others explore and grow in the world of programming.
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/omarfarukesham)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/omar-faruk-934176240//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/5261469/omarfaruk)  
