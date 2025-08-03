@@ -1,5 +1,5 @@
 #### Full Stack Web Developer(MERN)
-![Full Stack Web Developer(MERN)](https://i.ibb.co/KbPJBxX/github.png)
+![Full Stack Web Developer(MERN)](https://i.ibb.co/Y7v4BXhW/banner.png)
 
 # 👋 Hello!
 
