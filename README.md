@@ -30,7 +30,7 @@ I'm committed to delivering **high-quality, scalable solutions** and adding **re
 
 ## 🔧 Skills
 
-`TypeScript`, `JavaScript`, `React.js`, `React Native`, `Node.js`, `Express.js`,  
+`TypeScript`, `JavaScript`, `React.js`, `React Native`, `Node.js`, `Express.js`, `NestJS`, 
 `MongoDB`, `Firebase`, `PostgreSQL`, `Prisma`, `JWT`, `Tailwind CSS`,  
 `Daisy UI`, `Material UI`, `Shadcn`
 
