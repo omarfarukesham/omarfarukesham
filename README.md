@@ -1,85 +1,129 @@
-#### Full Stack Web Developer(MERN)
-![Full Stack Web Developer(MERN)](https://i.ibb.co/dJmHgpCx/banner2.png)
+# Omar Faruk
 
-# 👋 Hello!
+**Full Stack JavaScript Developer**  
+React.js • Next.js • Node.js • NestJS • TypeScript • MongoDB • PostgreSQL
 
-I'm **Omar**, a passionate **tech enthusiast** and **JavaScript developer** with over **3+ years of experience** working with various companies and clients as a freelancer.  
-My journey has been deeply rooted in mastering the **JavaScript ecosystem**, particularly focusing on:
+![Banner](https://i.ibb.co/dJmHgpCx/banner2.png)
 
----
+## About Me
 
-### 💻 Frontend
-- **React.js**, **React Native**
-- **Redux**, **Tailwind CSS**, **Daisy UI**, **Material UI**, **Shadcn**
+I’m a **Full Stack JavaScript Developer** with **4+ years of experience** building production web applications, backend APIs, admin dashboards, and workflow-driven platforms.
 
-### 🛠️ Backend
-- **Node.js**, **Express.js**
-- **MongoDB**, **Mongoose**, **Prisma**
-- **Firebase**, **PostgreSQL**
+My core strength is building **end-to-end products** with the JavaScript/TypeScript ecosystem — from clean, responsive frontend interfaces to scalable backend services and API integrations.
 
-### ⚙️ Other Tools
-- **JWT Authentication**
-- **Payment Gateway Integrations**
-- **SQL-Based Systems**
+I have hands-on experience delivering solutions across:
+- **SaaS and admin dashboards**
+- **Healthcare and workflow-based systems**
+- **E-commerce platforms**
+- **API-driven business applications**
+
+I’m currently focused on opportunities where I can contribute as a **remote full-stack engineer**, especially in teams building modern web products with strong engineering standards.
 
 ---
 
-I'm committed to delivering **high-quality, scalable solutions** and adding **real value** to JavaScript-based projects — whether it's a **startup MVP**, **enterprise app**, or **open-source contribution**.
+## Core Stack
+
+### Frontend
+- React.js
+- Next.js
+- TypeScript
+- Redux Toolkit
+- Tailwind CSS
+- Material UI
+- Shadcn UI
+
+### Backend
+- Node.js
+- Express.js
+- NestJS
+- REST APIs
+- JWT Authentication
+- Payment Integrations
+
+### Database & Infrastructure
+- MongoDB
+- Mongoose
+- PostgreSQL
+- Prisma
+- Firebase
+- SQL
+
+### Tools & Workflow
+- Git & GitHub
+- Postman
+- Docker
+- AWS S3
+- Figma
+- Agile collaboration
 
 ---
 
-## 🔧 Skills
+## What I Do
 
-`TypeScript`, `JavaScript`, `React.js`, `React Native`, `Node.js`, `Express.js`, `NestJS`, 
-`MongoDB`, `Firebase`, `PostgreSQL`, `Prisma`, `JWT`, `Tailwind CSS`,  
-`Daisy UI`, `Material UI`, `Shadcn`
-
----
-
-## 🚀 Currently
-
-- Working at **Qusaleem Client Mobile App Development** (🇺🇸 USA-based Freelancer)  
-- Learning advanced patterns in **Docker**, **Kubernetes**, **CI/CD**, and **AWS**
+- Build responsive and maintainable **frontend applications**
+- Design and develop **scalable backend APIs**
+- Integrate frontend and backend systems for **complete product delivery**
+- Work on **admin panels, dashboards, forms, authentication, and business workflows**
+- Contribute to **production-ready full-stack applications** with clean architecture and reusable code
 
 ---
 
-## 🤝 Open To
+## Professional Focus
 
-- 🤝 Collaborating on **JavaScript/Full-stack projects**  
-- 👨‍💻 Joining a **collaborative and friendly tech team**
+I’m best aligned with roles such as:
+- **Full Stack JavaScript Developer**
+- **Software Engineer (React + Node.js)**
+- **Frontend-Leaning Full Stack Engineer**
+- **Backend-Capable Product Engineer**
 
----
-
-## 💬 Ask Me About
-
-- **MERN stack**
-- **Scalable API design**
-- **Authentication systems**
-- **Real-time apps**
-
----
-
-## 📫 Visit my agency
-
-📩 [Agency website](https://www.techsphere64.com/)
+I’m especially interested in:
+- Remote international teams
+- Product-focused engineering roles
+- SaaS, healthtech, internal tools, and workflow systems
 
 ---
 
-## ⚡ Fun Fact
+## Selected Technologies
 
-I love **helping others explore and grow** in the world of programming! 🌱
+`JavaScript` `TypeScript` `React.js` `Next.js` `Node.js` `Express.js` `NestJS`  
+`MongoDB` `Mongoose` `PostgreSQL` `Prisma` `Firebase` `REST API`  
+`JWT` `Tailwind CSS` `Material UI` `Shadcn UI`
 
+---
 
+## Currently
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/omarfarukesham)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/omar-faruk-934176240//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/5261469/omarfaruk)  
+- Building full-stack JavaScript applications and backend services
+- Improving depth in **Docker**, **CI/CD**, and **cloud-based deployment workflows**
+- Open to **remote full-time opportunities** and strong product teams
 
-<a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omarfarukesham)](https://github.com/anuraghazra/github-readme-stats)
+## Open To
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=omarfarukesham)  
+- Remote Full Stack JavaScript roles
+- React / Next.js frontend-heavy roles with backend exposure
+- Node.js / NestJS backend roles for product teams
+- Collaboration on serious product or open-source work
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=omarfarukesham)  
+---
 
-![Profile views](https://gpvc.arturio.dev/omarfarukesham)  
+## Contact
 
+- **GitHub:** [github.com/omarfarukesham](https://github.com/omarfarukesham)
+- **LinkedIn:** [linkedin.com/in/omarfaruk7](https://www.linkedin.com/in/omarfaruk7/)
+- **Stack Overflow:** [stackoverflow.com/users/5261469/omarfaruk](https://stackoverflow.com/users/5261469/omarfaruk)
+
+---
+
+## GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omarfarukesham&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=omarfarukesham)
+
+---
+
+## Notes
+
+A few repositories here reflect experimentation, learning, and client/project work. For the working professional, I used Bitbucket. 
